@@ -1,6 +1,6 @@
 {
   "name": "@codeekage/schema",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Firebase Schema Definition",
   "main": "index.js",
   "scripts": {
