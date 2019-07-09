@@ -1,0 +1,23 @@
+{
+  "name": "@codeekage/schema",
+  "version": "0.0.2",
+  "description": "Firebase Schema Definition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeekage/schema.git"
+  },
+  "keywords": [
+    "schema",
+    "firebase"
+  ],
+  "author": "codeekage",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeekage/schema/issues"
+  },
+  "homepage": "https://github.com/codeekage/schema#readme"
+}
