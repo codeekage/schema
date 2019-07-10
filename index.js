@@ -1,4 +1,4 @@
-export function schema(objects){
+module.exports.schema =(objects) => {
     let data = {};
     let key;
     const values = Object.keys(objects).map(key => objects[key]);
